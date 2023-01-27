@@ -1,5 +1,7 @@
 ## Scientific Python for ICTP diploma program
 
+
+test
 Lecture1 - basics:
 
 - conda/jupyter
